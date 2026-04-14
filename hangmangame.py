@@ -87,7 +87,7 @@ def main():
         time.sleep(3)
         main()
     else:
-        print("THANKS FOR PLAYING OUR WINGMAN GAME 😊")
+        print("THANKS FOR PLAYING OUR HANGMAN GAME 😊")
 
 if __name__ == '__main__':
     main()
